@@ -1,0 +1,15 @@
+[
+    {
+      "pk": 1,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00001",
+        "name": "wedding Cake 1",
+        "description": "testing",
+        "price": 25,
+        "category": 5 ,
+        "rating": 4.6,
+        "image": "wcake1.jpeg"
+      }
+    }
+]

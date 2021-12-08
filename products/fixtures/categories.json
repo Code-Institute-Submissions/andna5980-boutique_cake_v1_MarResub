@@ -1,0 +1,43 @@
+[
+    {
+        "pk":1,
+        "model": "products.category",
+        "fields":{
+            "name": "cakes",
+            "friendly_name": "Cakes"   
+        }
+    },
+    {
+        "pk":2,
+        "model": "products.category",
+        "fields":{
+            "name": "cupcakes",
+            "friendly_name": "Cupcakes"   
+        }
+    },
+    {
+        "pk":3,
+        "model": "products.category",
+        "fields":{
+            "name": "cheesecakes",
+            "friendly_name": "Cheesecakes"   
+        }
+    },
+    {
+        "pk":4,
+        "model": "products.category",
+        "fields":{
+            "name": "boxes",
+            "friendly_name": "Boxes"   
+        }
+    },
+    {
+        "pk":5,
+        "model": "products.category",
+        "fields":{
+            "name": "w_cakes",
+            "friendly_name": "Wedding Cakes"   
+        }
+    }
+
+]
