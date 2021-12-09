@@ -4,7 +4,7 @@
       "model": "products.product",
       "fields": {
         "sku": "pp00001",
-        "name": "wedding Cake 1",
+        "name": "wedding Cake ",
         "description": "testing",
         "price": 25,
         "category": 5 ,
