@@ -167,6 +167,149 @@
         "rating": 4.6,
         "image": "2tiercake3.jpeg"
       }
+    },
+    {
+      "pk": 14,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000014",
+        "name": " Xmas Cupcakes ",
+        "description": "testing",
+        "price": 25,
+        "category": 2 ,
+        "rating": 4.6,
+        "image": "6cupcakes1.jpeg"
+      }
+    },
+    {
+      "pk": 15,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000015",
+        "name": "Xmas Cupcakes Box of 6 ",
+        "description": "testing",
+        "price": 25,
+        "category": 2 ,
+        "rating": 4.6,
+        "image": "6cupcakes2.jpeg"
+      }
+    },
+    {
+      "pk": 16,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000016",
+        "name": "Xmas Cupcake strawberry heart Box of 6 ",
+        "description": "testing",
+        "price": 25,
+        "category": 2 ,
+        "rating": 4.6,
+        "image": "6cupcakes3.jpeg"
+      }
+    },
+    {
+      "pk": 17,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000017",
+        "name": "Merry Xmas Box of 6 ",
+        "description": "testing",
+        "price": 25,
+        "category": 2 ,
+        "rating": 4.6,
+        "image": "6cupcakes4.jpeg"
+      }
+    },
+    {
+      "pk": 18,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000018",
+        "name": "Happy Birthday Cupcake Box of 12 ",
+        "description": "testing",
+        "price": 25,
+        "category": 2 ,
+        "rating": 4.6,
+        "image": "12cupcakes1.jpeg"
+      }
+    },
+    {
+      "pk": 19,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000019",
+        "name": "Birthday Girl Cupcake Box of 12 ",
+        "description": "testing",
+        "price": 25,
+        "category": 2 ,
+        "rating": 4.6,
+        "image": "12cupcakes2.jpeg"
+      }
+    },
+    {
+      "pk": 20,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000020",
+        "name": "Bride to be Cupcake Box of 12 ",
+        "description": "testing",
+        "price": 25,
+        "category": 2 ,
+        "rating": 4.6,
+        "image": "12cupcakes3.jpeg"
+      }
+    },
+    {
+      "pk": 21,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000021",
+        "name": "White Rose Cupcake Box of 12 ",
+        "description": "testing",
+        "price": 25,
+        "category": 2 ,
+        "rating": 4.6,
+        "image": "12cupcakes5.jpeg"
+      }
+    },
+    {
+      "pk": 22,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000022",
+        "name": "Cheesecakes selection ",
+        "description": "testing",
+        "price": 25,
+        "category": 3 ,
+        "rating": 4.6,
+        "image": "cheesecakes.jpeg"
+      }
+    },
+    {
+      "pk": 23,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000023",
+        "name": "Cheesecakes selection Box of 6 ",
+        "description": "testing",
+        "price": 25,
+        "category": 3 ,
+        "rating": 4.6,
+        "image": "6cheesecakes1.jpeg"
+      }
+    },
+    {
+      "pk": 24,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000024",
+        "name": "Cheesecakes selection Box of 12 ",
+        "description": "testing",
+        "price": 25,
+        "category": 3 ,
+        "rating": 4.6,
+        "image": "12cheesecakes1.jpeg"
+      }
     }
 ]
 
