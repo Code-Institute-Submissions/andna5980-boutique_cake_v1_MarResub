@@ -3,8 +3,8 @@
         "pk":1,
         "model": "products.category",
         "fields":{
-            "name": "cakes",
-            "friendly_name": "Cakes"   
+            "name": "tall_cakes",
+            "friendly_name": "Tall Cakes"   
         }
     },
     {
@@ -37,6 +37,14 @@
         "fields":{
             "name": "w_cakes",
             "friendly_name": "Wedding Cakes"   
+        }
+    },
+    {
+        "pk":6,
+        "model": "products.category",
+        "fields":{
+            "name": "tiered_cakes",
+            "friendly_name": "Two tiered Cakes"   
         }
     }
 

@@ -4,12 +4,170 @@
       "model": "products.product",
       "fields": {
         "sku": "pp00001",
-        "name": "wedding Cake ",
+        "name": "Red rose wedding Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 40,
         "category": 5 ,
         "rating": 4.6,
         "image": "wcake1.jpeg"
       }
+    },
+    {
+      "pk": 2,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00002",
+        "name": "Purple rose wedding Cake ",
+        "description": "testing",
+        "price": 30,
+        "category": 5 ,
+        "rating": 4.6,
+        "image": "wcake2.jpeg"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00003",
+        "name": "White rose wedding Cake ",
+        "description": "testing",
+        "price": 40,
+        "category": 5 ,
+        "rating": 4.6,
+        "image": "wcake3.jpeg"
+      }
+    },
+    {
+      "pk": 4,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00004",
+        "name": "wedding Cake 2tier ",
+        "description": "testing",
+        "price": 30,
+        "category": 5 ,
+        "rating": 4.6,
+        "image": "wcake5.jpeg"
+      }
+    },
+    {
+      "pk": 5,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00005",
+        "name": "White chocolate and strawberries Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 1 ,
+        "rating": 4.6,
+        "image": "tallcake1.jpeg"
+      }
+    },
+    {
+      "pk": 6,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00006",
+        "name": "Andres Birthday Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 1 ,
+        "rating": 4.6,
+        "image": "tallcake2.jpeg"
+      }
+    },
+    {
+      "pk": 7,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00007",
+        "name": "Pink rose and macarron Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 1 ,
+        "rating": 4.6,
+        "image": "tallcake3.jpeg"
+      }
+    },
+    {
+      "pk": 8,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00008",
+        "name": "Ferrero and vanilla Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 1 ,
+        "rating": 4.6,
+        "image": "tallcake4.jpeg"
+      }
+    },
+    {
+      "pk": 9,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp00009",
+        "name": "White rose pistachio Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 1 ,
+        "rating": 4.6,
+        "image": "tallcake5.jpeg"
+      }
+    },
+    {
+      "pk": 10,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000010",
+        "name": "Fairy peach Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 1 ,
+        "rating": 4.6,
+        "image": "tallcake6.jpeg"
+      }
+    },  
+    {
+      "pk": 11,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000011",
+        "name": "Oreo and white chocooate Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 6 ,
+        "rating": 4.6,
+        "image": "2tiercake1.jpeg"
+      }
+    },
+    {
+      "pk": 12,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000012",
+        "name": "Oreo, chocolate and strawberries Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 6 ,
+        "rating": 4.6,
+        "image": "2tiercake2.jpeg"
+      }
+    },
+    {
+      "pk": 13,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000013",
+        "name": "Purple and white roses Cake ",
+        "description": "testing",
+        "price": 25,
+        "category": 6 ,
+        "rating": 4.6,
+        "image": "2tiercake3.jpeg"
+      }
     }
 ]
+
+
