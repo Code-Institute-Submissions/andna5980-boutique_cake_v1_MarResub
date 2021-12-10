@@ -58,7 +58,7 @@
         "sku": "pp00005",
         "name": "White chocolate and strawberries Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 55,
         "category": 1 ,
         "rating": 4.6,
         "image": "tallcake1.jpeg"
@@ -71,7 +71,7 @@
         "sku": "pp00006",
         "name": "Andres Birthday Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 55,
         "category": 1 ,
         "rating": 4.6,
         "image": "tallcake2.jpeg"
@@ -84,7 +84,7 @@
         "sku": "pp00007",
         "name": "Pink rose and macarron Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 55,
         "category": 1 ,
         "rating": 4.6,
         "image": "tallcake3.jpeg"
@@ -97,7 +97,7 @@
         "sku": "pp00008",
         "name": "Ferrero and vanilla Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 55,
         "category": 1 ,
         "rating": 4.6,
         "image": "tallcake4.jpeg"
@@ -110,7 +110,7 @@
         "sku": "pp00009",
         "name": "White rose pistachio Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 55,
         "category": 1 ,
         "rating": 4.6,
         "image": "tallcake5.jpeg"
@@ -123,7 +123,7 @@
         "sku": "pp000010",
         "name": "Fairy peach Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 55,
         "category": 1 ,
         "rating": 4.6,
         "image": "tallcake6.jpeg"
@@ -136,7 +136,7 @@
         "sku": "pp000011",
         "name": "Oreo and white chocooate Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 80,
         "category": 6 ,
         "rating": 4.6,
         "image": "2tiercake1.jpeg"
@@ -149,7 +149,7 @@
         "sku": "pp000012",
         "name": "Oreo, chocolate and strawberries Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 80,
         "category": 6 ,
         "rating": 4.6,
         "image": "2tiercake2.jpeg"
@@ -162,7 +162,7 @@
         "sku": "pp000013",
         "name": "Purple and white roses Cake ",
         "description": "testing",
-        "price": 25,
+        "price": 80,
         "category": 6 ,
         "rating": 4.6,
         "image": "2tiercake3.jpeg"
@@ -175,7 +175,7 @@
         "sku": "pp000014",
         "name": " Xmas Cupcakes ",
         "description": "testing",
-        "price": 25,
+        "price": 15,
         "category": 2 ,
         "rating": 4.6,
         "image": "6cupcakes1.jpeg"
@@ -188,7 +188,7 @@
         "sku": "pp000015",
         "name": "Xmas Cupcakes Box of 6 ",
         "description": "testing",
-        "price": 25,
+        "price": 15,
         "category": 2 ,
         "rating": 4.6,
         "image": "6cupcakes2.jpeg"
@@ -201,7 +201,7 @@
         "sku": "pp000016",
         "name": "Xmas Cupcake strawberry heart Box of 6 ",
         "description": "testing",
-        "price": 25,
+        "price": 15,
         "category": 2 ,
         "rating": 4.6,
         "image": "6cupcakes3.jpeg"
@@ -214,7 +214,7 @@
         "sku": "pp000017",
         "name": "Merry Xmas Box of 6 ",
         "description": "testing",
-        "price": 25,
+        "price": 15,
         "category": 2 ,
         "rating": 4.6,
         "image": "6cupcakes4.jpeg"
@@ -227,7 +227,7 @@
         "sku": "pp000018",
         "name": "Happy Birthday Cupcake Box of 12 ",
         "description": "testing",
-        "price": 25,
+        "price": 30,
         "category": 2 ,
         "rating": 4.6,
         "image": "12cupcakes1.jpeg"
@@ -240,7 +240,7 @@
         "sku": "pp000019",
         "name": "Birthday Girl Cupcake Box of 12 ",
         "description": "testing",
-        "price": 25,
+        "price": 30,
         "category": 2 ,
         "rating": 4.6,
         "image": "12cupcakes2.jpeg"
@@ -253,7 +253,7 @@
         "sku": "pp000020",
         "name": "Bride to be Cupcake Box of 12 ",
         "description": "testing",
-        "price": 25,
+        "price": 30,
         "category": 2 ,
         "rating": 4.6,
         "image": "12cupcakes3.jpeg"
@@ -266,7 +266,7 @@
         "sku": "pp000021",
         "name": "White Rose Cupcake Box of 12 ",
         "description": "testing",
-        "price": 25,
+        "price": 30,
         "category": 2 ,
         "rating": 4.6,
         "image": "12cupcakes5.jpeg"
@@ -279,7 +279,7 @@
         "sku": "pp000022",
         "name": "Cheesecakes selection ",
         "description": "testing",
-        "price": 25,
+        "price": 48,
         "category": 3 ,
         "rating": 4.6,
         "image": "cheesecakes.jpeg"
@@ -292,7 +292,7 @@
         "sku": "pp000023",
         "name": "Cheesecakes selection Box of 6 ",
         "description": "testing",
-        "price": 25,
+        "price": 24,
         "category": 3 ,
         "rating": 4.6,
         "image": "6cheesecakes1.jpeg"
@@ -305,7 +305,7 @@
         "sku": "pp000024",
         "name": "Cheesecakes selection Box of 12 ",
         "description": "testing",
-        "price": 25,
+        "price": 48,
         "category": 3 ,
         "rating": 4.6,
         "image": "12cheesecakes1.jpeg"
