@@ -57,7 +57,7 @@
       "fields": {
         "sku": "pp00005",
         "name": "White chocolate and strawberries Cake ",
-        "description": "testing",
+        "description": "A stunning 6' tall pink marble cake with strawberries ",
         "price": 55,
         "category": 1 ,
         "rating": 4.6,
@@ -70,7 +70,7 @@
       "fields": {
         "sku": "pp00006",
         "name": "Andres Birthday Cake ",
-        "description": "testing",
+        "description": "A stunning 6' tall mat blue cake with ferrero and blue cream",
         "price": 55,
         "category": 1 ,
         "rating": 4.6,
@@ -83,7 +83,7 @@
       "fields": {
         "sku": "pp00007",
         "name": "Pink rose and macarron Cake ",
-        "description": "testing",
+        "description": "A stunning 6' tall pink marble cake with cascading flowers and pink macarons",
         "price": 55,
         "category": 1 ,
         "rating": 4.6,
@@ -96,7 +96,7 @@
       "fields": {
         "sku": "pp00008",
         "name": "Ferrero and vanilla Cake ",
-        "description": "testing",
+        "description": "A stunning 6' tall green and beige marble cake with ferrero and golde sparkle",
         "price": 55,
         "category": 1 ,
         "rating": 4.6,
@@ -109,7 +109,7 @@
       "fields": {
         "sku": "pp00009",
         "name": "White rose pistachio Cake ",
-        "description": "testing",
+        "description": "A stunning 6' tall green marble pistachio cake",
         "price": 55,
         "category": 1 ,
         "rating": 4.6,
@@ -135,7 +135,7 @@
       "fields": {
         "sku": "pp000011",
         "name": "Oreo and white chocooate Cake ",
-        "description": "testing",
+        "description": "Vanilla cake baked with crushed oreos, filled with white chocolate ganache. Served with Lindt white chocolate and oreos on top ",
         "price": 80,
         "category": 6 ,
         "rating": 4.6,
