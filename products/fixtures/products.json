@@ -278,7 +278,7 @@
       "fields": {
         "sku": "pp000022",
         "name": "Cheesecakes selection ",
-        "description": "testing",
+        "description": "Box of cheesecakes, any flavour of your choice. Creamy, irresistible cheesecake with a digestive crust",
         "price": 48,
         "category": 3 ,
         "rating": 4.6,
@@ -291,7 +291,7 @@
       "fields": {
         "sku": "pp000023",
         "name": "Cheesecakes selection Box of 6 ",
-        "description": "testing",
+        "description": "Box of cheesecakes, any flavour of your choice. Creamy, irresistible cheesecake with a digestive crust",
         "price": 24,
         "category": 3 ,
         "rating": 4.6,
@@ -304,13 +304,14 @@
       "fields": {
         "sku": "pp000024",
         "name": "Cheesecakes selection Box of 12 ",
-        "description": "testing",
+        "description": "Box of cheesecakes, any flavour of your choice. Creamy, irresistible cheesecake with a digestive crust",
         "price": 48,
         "category": 3 ,
         "rating": 4.6,
         "image": "12cheesecakes1.jpeg"
       }
     }
+    
 ]
 
 
