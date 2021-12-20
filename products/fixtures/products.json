@@ -174,7 +174,7 @@
       "fields": {
         "sku": "pp000014",
         "name": " Xmas Cupcakes ",
-        "description": "testing",
+        "description": "Christmas Cupcakes- A box of vanilla, chocolate or red velvet to celebrate this Christmas. All decorated with White, Red, Green & Gold",
         "price": 15,
         "category": 2 ,
         "rating": 4.6,
@@ -187,7 +187,7 @@
       "fields": {
         "sku": "pp000015",
         "name": "Xmas Cupcakes Box of 6 ",
-        "description": "testing",
+        "description": "Christmas Cupcakes- A box of vanilla, chocolate or red velvet to celebrate this Christmas. All decorated with White, Red, Green & Gold",
         "price": 15,
         "category": 2 ,
         "rating": 4.6,
@@ -200,7 +200,7 @@
       "fields": {
         "sku": "pp000016",
         "name": "Xmas Cupcake strawberry heart Box of 6 ",
-        "description": "testing",
+        "description": "Christmas Cupcakes- A box of vanilla and  strawbwerry to celebrate this Christmas. All decorated with White, pink & Gold",
         "price": 15,
         "category": 2 ,
         "rating": 4.6,
@@ -213,7 +213,7 @@
       "fields": {
         "sku": "pp000017",
         "name": "Merry Xmas Box of 6 ",
-        "description": "testing",
+        "description": "Christmas Cupcakes- A box of vanilla, chocolate or red velvet to celebrate this Christmas. All decorated with White, Red, Green & Gold",
         "price": 15,
         "category": 2 ,
         "rating": 4.6,
@@ -226,7 +226,7 @@
       "fields": {
         "sku": "pp000018",
         "name": "Happy Birthday Cupcake Box of 12 ",
-        "description": "testing",
+        "description": "Christmas Cupcakes- A box of vanilla and  strawbwerry to celebrate this Christmas. All decorated with White, pink & Gold",
         "price": 30,
         "category": 2 ,
         "rating": 4.6,
@@ -239,7 +239,7 @@
       "fields": {
         "sku": "pp000019",
         "name": "Birthday Girl Cupcake Box of 12 ",
-        "description": "testing",
+        "description": "Birthday Cupcakes- A box of vanilla, chocolate  to celebrate this Christmas. All decorated with White & Gold sparkle",
         "price": 30,
         "category": 2 ,
         "rating": 4.6,
@@ -252,7 +252,7 @@
       "fields": {
         "sku": "pp000020",
         "name": "Bride to be Cupcake Box of 12 ",
-        "description": "testing",
+        "description": "Bride Cupcakes- A box of vanilla, strawberry to celebrate this Christmas. All decorated with White, pink & Gold",
         "price": 30,
         "category": 2 ,
         "rating": 4.6,
@@ -265,7 +265,7 @@
       "fields": {
         "sku": "pp000021",
         "name": "White Rose Cupcake Box of 12 ",
-        "description": "testing",
+        "description": "White rose Cupcakes- A box of vanilla, macarron to celebrate this Christmas. All decorated with White & Gold sparkle ",
         "price": 30,
         "category": 2 ,
         "rating": 4.6,
