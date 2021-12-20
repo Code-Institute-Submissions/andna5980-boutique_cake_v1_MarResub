@@ -5,7 +5,7 @@
       "fields": {
         "sku": "pp00001",
         "name": "Red rose wedding Cake ",
-        "description": "testing",
+        "description": "Three beautiful tiers of cake, consisting 6', 8' and 10' tiers. All frosted in a silky white buttercream with red roses, gold leaf accents and shimmering pearls at the bottom of each tier",
         "price": 40,
         "category": 5 ,
         "rating": 4.6,
@@ -18,7 +18,7 @@
       "fields": {
         "sku": "pp00002",
         "name": "Purple rose wedding Cake ",
-        "description": "testing",
+        "description": "A simple yet sofisticated semi naked wedding cake with a few roses, gold accents and a gold trip",
         "price": 30,
         "category": 5 ,
         "rating": 4.6,
@@ -31,7 +31,7 @@
       "fields": {
         "sku": "pp00003",
         "name": "White rose wedding Cake ",
-        "description": "testing",
+        "description": "A luxurious four tier wedding cake. White roses and hydrangeas, light pink roses and small wild yellow flowers cascading from the top",
         "price": 40,
         "category": 5 ,
         "rating": 4.6,
@@ -44,7 +44,7 @@
       "fields": {
         "sku": "pp00004",
         "name": "wedding Cake 2tier ",
-        "description": "testing",
+        "description": "A simple yet sofisticated semi naked wedding cake with a few roses, gold accents and a gold trip",
         "price": 30,
         "category": 5 ,
         "rating": 4.6,
