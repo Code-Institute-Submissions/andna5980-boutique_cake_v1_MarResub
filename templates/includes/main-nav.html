@@ -17,10 +17,10 @@
                 Cakes
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">Wedding</a>
-                <a href="" class="dropdown-item ">Two Tiered Cake</a>
-                <a href="" class="dropdown-item ">Tall </a>
-                <a href="" class="dropdown-item">All Cakes</a>
+                <a href="{% url 'products' %}?category=wedding" class="dropdown-item">Wedding</a>
+                <a href="{% url 'products' %}?category=two tiered cake" class="dropdown-item ">Two Tiered Cake</a>
+                <a href="{% url 'products' %}?category=tall" class="dropdown-item ">Tall </a>
+                <a href="{% url 'products' %}?category=wedding, two tiered cake, tall" class="dropdown-item">All Cakes</a>
             </div>
         </li>
 
