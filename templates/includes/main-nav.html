@@ -29,20 +29,19 @@
                 Cupcakes
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">Box of 6</a>
-                <a href="" class="dropdown-item ">Box of 12</a>
+                <a href="{% url 'products' %}?category=cupcakes" class="dropdown-item">Box of 6</a>
+                <a href="{% url 'products' %}?category=cupcakes" class="dropdown-item ">Box of 12</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="all-products-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Special Offers
+                Cheese Cakes
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">New Arrival</a>
-                <a href="" class="dropdown-item ">Deals</a>
-                <a href="" class="dropdown-item ">Baking Utensils</a>
-                <a href="" class="dropdown-item">All Products</a>
+                <a href="{% url 'products' %}?category=6_cheesecakes" class="dropdown-item">Box of 6 </a>
+                <a href="{% url 'products' %}?category=12_cheesecakes" class="dropdown-item ">Box of 12</a>
+                <a href="{% url 'products' %}?category=cheesecakes" class="dropdown-item">All Products</a>
             </div>
         </li>
     </ul>

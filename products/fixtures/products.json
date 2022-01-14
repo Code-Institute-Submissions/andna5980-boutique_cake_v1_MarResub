@@ -310,6 +310,32 @@
         "rating": 4.6,
         "image": "12cheesecakes1.jpeg"
       }
+    },
+    {
+      "pk": 25,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000023",
+        "name": "Cheesecakes selection Box of 6 ",
+        "description": "Box of cheesecakes, any flavour of your choice. Creamy, irresistible cheesecake with a digestive crust",
+        "price": 24,
+        "category": 7 ,
+        "rating": 4.6,
+        "image": "6cheesecakes1.jpeg"
+      }
+    },
+    {
+      "pk": 26,
+      "model": "products.product",
+      "fields": {
+        "sku": "pp000024",
+        "name": "Cheesecakes selection Box of 12 ",
+        "description": "Box of cheesecakes, any flavour of your choice. Creamy, irresistible cheesecake with a digestive crust",
+        "price": 48,
+        "category": 8 ,
+        "rating": 4.6,
+        "image": "12cheesecakes1.jpeg"
+      }
     }
     
 ]
