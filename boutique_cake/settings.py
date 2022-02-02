@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-7&f%rgch7#+0o*nm0hb3!(-+3t2yy*neujm+2@a7h-tp9)20=l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['andna5980-boutiquecake-v1.herokuapp.com', 'localhost']
 
 
 
@@ -124,12 +124,17 @@ WSGI_APPLICATION = 'boutique_cake.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+if 'DATABASE_URL' in os.environ:
+    DATABASE = {
+        'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))
     }
-}
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
+    }
 
 
 
