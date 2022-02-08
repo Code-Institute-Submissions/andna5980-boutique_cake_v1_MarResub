@@ -25,3 +25,35 @@ Ecommerce website offering crafted Cakes, cheesecakes and cupcakes.
     
 8. As a frequent user I want the system to save my details like my address for future purchases
       
+      
+## Structure
+
+The website will present all the produts for non registered users.
+
+- Home Page will present a simple picture of a Xmas theme cupcake.
+
+- Home Page will have a My Account link where users can create an Account or log in option for already registered users.
+
+- A Register Page will ask the user to fill in some details in order to create the account.
+
+- A login / Sign In page will ask registered users to fillin the form with their pre registered details in order to login.
+
+- Non registered users will be able to navigate the website, having access to all the products and purchasing without be registered.
+
+- Non registered users can select a product, read product information aswel as price, modify the quatity amount and add to bag.
+
+- Non registerd users can go to the bag Icon in order to complete the order, this page will inform about the product choose and also gives the user the option of updating the amount of products, this page also informs the user of the total amount to pay.
+
+- Non registered user will be able to complete the order using the Checkout Secure button that will take users to the Checkout Area where users will fill in all the information related to the user; this includes full name, delivery address, and credit cards details. This page will allow users to complete the purchase or adjust the bag, adding or deleting any product.
+
+- Non registered users. will complete purchase and an automated email will be send to the user confirming the purchase, none of the previous details provided by the Non register user will be saved.      
+- 
+The website will contain 4 pages for users that are registered and are logged.
+
+- Home Page will explain the puropose and the page and also the list of recipes created by the users.
+
+- A Profile Page that will confirm the user name of the current user.
+
+- A New Recipe Page will allow users to create and save recipes for later access.
+
+- A log Out Page will let the users logout if they want.
