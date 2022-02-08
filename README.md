@@ -47,13 +47,18 @@ The website will present all the produts for non registered users.
 - Non registered user will be able to complete the order using the Checkout Secure button that will take users to the Checkout Area where users will fill in all the information related to the user; this includes full name, delivery address, and credit cards details. This page will allow users to complete the purchase or adjust the bag, adding or deleting any product.
 
 - Non registered users. will complete purchase and an automated email will be send to the user confirming the purchase, none of the previous details provided by the Non register user will be saved.      
-- 
+
+
 The website will contain 4 pages for users that are registered and are logged.
 
-- Home Page will explain the puropose and the page and also the list of recipes created by the users.
+- Home Page will allow also registered users to log in.
 
-- A Profile Page that will confirm the user name of the current user.
+- Registered user can login by clicking in My account area/Log in. 
 
-- A New Recipe Page will allow users to create and save recipes for later access.
+- Registered users have to provide email address and password in order to access to the site. Once the authentication is done a message of congfirmation appears in the screen.
 
-- A log Out Page will let the users logout if they want.
+- Registered Users then have access to My Profile page where purchase history appears but also user information that can be updated.  
+
+- Registered Users then have access to the products and can purchase without re-entering their delivery details. Card details will be always required for security reasons.
+
+- Register Users also have the option of login out by clicking in My Account/Logout.
