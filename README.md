@@ -49,7 +49,7 @@ The website will present all the produts for non registered users.
 - Non registered users. will complete purchase and an automated email will be send to the user confirming the purchase, none of the previous details provided by the Non register user will be saved.      
 
 
-The website will contain 4 pages for users that are registered and are logged.
+The website will contain 3 pages for users that are registered and are logged.
 
 - Home Page will allow also registered users to log in.
 
