@@ -105,4 +105,14 @@ Functionality in the navbar that will allow the logged users to logout/exit the 
 
 - Typography throughout the whole page is Lato which is a is a simple font, easy to read in various devices. 
 
+
+## Technologies
+### Languages and Frameworks
+
+- HTML5 - Mark-ip language mainly used for the web structure
+- CSS3 - Used to provide style the web
+- JavaScript - Language use to create web functionalities 
+- Python - Backend language to develop everything not seen by the user
+- Flask - Framework
+- jQuery - JavaScript library needed for Materialize framework to work  
        
