@@ -159,7 +159,7 @@ This project was develop with Gitpod, commit and pushed to GitHub and finally de
 - [W3schools](https://www.w3schools.com/) For general database on software development.
 
 ### Media
-- [Rose Dorilus](https://www.instagram.com/lushcakesbyrose/?hl=es) Products and pictures rights belong to her 
+- [Rose Dorilus](https://www.instagram.com/lushcakesbyrose/?hl=es) Products and pictures rights belongs to her 
 
 ### Acknowledgements
 
