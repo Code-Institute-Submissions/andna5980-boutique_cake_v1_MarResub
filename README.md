@@ -84,18 +84,18 @@ This project uses the following Databases.
 ### Navbar:
 Navigation bar will appear in every page this includes include a search bar, My Account(includes Regiter and Login) and checkout bag, which will inform user of any item ready to purchase.
 
-### My Account
-#### Register:
+### My Account:
+#### Register
 Page link that help users to create an account, they have to provide a some details and a password.
 
-#### Log in:
+#### Log in
 Page link for already registered users, they can access by providing username/email and password. 
 
-### Log in Users 
-### Profile:
+### Log in Users: 
+### Profile
 Page link that provide user details, under this page users can modify or delete their personal details.
 
-### Logout:
+### Logout
 Functionality in the navbar that will allow the logged users to logout/exit the web 
 
 ## Color Scheme and Typography
