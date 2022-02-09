@@ -62,3 +62,21 @@ The website will contain 3 pages for users that are registered and are logged.
 - Registered Users then have access to the products and can purchase without re-entering their delivery details. Card details will be always required for security reasons.
 
 - Register Users also have the option of login out by clicking in My Account/Logout.
+
+## Scope
+
+* Boutique Cake is a website that allows customer to buy hand crafted cakes, cupcakes and cheesecakes. Anyone can have acces to it and buy any product without been a register user. We will be using Django framework, the final site will be host in Heroku and will be using the database Heroku Postgress at the same time of AWS Cloud service.
+
+* Users: In order to become a registration, users will be asked to registered their details via the My Account\Register link that appears in the main navbar left side. Once users are registered they can update their details, shipping address and also users can see a purchase history aswel as the current bag with previous products selected ready for checkout.
+
+* Administration: There is administration area where staff/admin can have control over the site. Via administration control, staff/admin can control website products, they can be udated, edit, or deleted. This area also controls all the registered users and their details.
+
+
+### Database:
+
+This project uses the following Databases.
+* SQlite
+    * Cloud Base Database to hold categories and products, orders and users.
+ 
+
+       
