@@ -105,6 +105,11 @@ Functionality in the navbar that will allow the logged users to logout/exit the 
 
 - Typography throughout the whole page is Lato which is a is a simple font, easy to read in various devices. 
 
+## Imagery
+
+This images belong to the proprietary Rose Dorilus.
+All the imagery included in this project belongs to Pastry Chef Rose Dorilus, she is the owner of the images aswel as the maker of the products.
+
 
 ## Technologies
 ### Languages and Frameworks
@@ -142,6 +147,26 @@ This project was develop with Gitpod, commit and pushed to GitHub and finally de
 * Create Group for the bucket through IAM. Create policy by importing AWS S3 Full Access policy and add ARN from bucket to the policy resources. Attach policy to group.
 *  Create user, allow access and add user to the group. Download CSV file when prompted to save access key ID an secret access key to save to environment and config variables.
 * Include AWS_STORAGE_BUCKET_NAME, AWS_S3_REGION_NAME = 'eu-west-2' to settings.py.
-* Commit and push changes to Github
+* Commit and push changes to Github.
+
+
+## Credits
+
+### Code and Content 
+- [Materialize framework](https://materializecss.com/)  Frontend development
+- [Stackoverflow](https://stackoverflow.com/) General queries on code. 
+- [Slack](https://slack.com/intl/en-gb/) General queries overall
+- [W3schools](https://www.w3schools.com/) For general database on software development.
+
+### Media
+- [Rose Dorilus](https://www.instagram.com/lushcakesbyrose/?hl=es) Products and pictures rights belong to her 
+
+### Acknowledgements
+
+- Code Institute Community, Student care and [Slack](https://slack.com/intl/en-gb/) group. Ger and Rebecca both very helpfull. 
+
+- The private WhatsApp group created by Code institute Students you all guys are part of a code family, your help and support has been always there.
+
+- Viviana Vivas my Wife for her support and companion during my long study nights.
 
        
