@@ -134,8 +134,14 @@ This project was develop with Gitpod, commit and pushed to GitHub and finally de
 * Commit and push to Heroku 
 * In Heroku dashboard/deploy link the deployment to the same Github repository, and enable automatic deploy.
 
-
-
-
+### Amazon AWS
+* Go to Amazon AWS, creta and account, go to S£ and create a new Bucket, select the closest region.
+* Make sure you have a public access to create a bucket.
+* In properties unable the static website hosting using default values using index,html and errors.html
+* Create security policy, allow public access and select all List Objects.
+* Create Group for the bucket through IAM. Create policy by importing AWS S3 Full Access policy and add ARN from bucket to the policy resources. Attach policy to group.
+*  Create user, allow access and add user to the group. Download CSV file when prompted to save access key ID an secret access key to save to environment and config variables.
+* Include AWS_STORAGE_BUCKET_NAME, AWS_S3_REGION_NAME = 'eu-west-2' to settings.py.
+* Commit and push changes to Github
 
        
