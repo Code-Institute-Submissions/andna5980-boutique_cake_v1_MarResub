@@ -109,10 +109,15 @@ Functionality in the navbar that will allow the logged users to logout/exit the 
 ## Technologies
 ### Languages and Frameworks
 
-- HTML5 - Mark-ip language mainly used for the web structure
-- CSS3 - Used to provide style the web
+- HTML5 - Main Markup language used for the site content
+- CSS3 - Provide style the webpage
 - JavaScript - Language use to create web functionalities 
-- Python - Backend language to develop everything not seen by the user
-- Flask - Framework
-- jQuery - JavaScript library needed for Materialize framework to work  
+- Python - Backend language
+- Django - Python framework
+- Heroku - Cloud platform allowing to deploy CRUD applications
+- Github - Source code management
+- Gitpod - Code Editor
+- Font Awsome - Icons
+
+
        
