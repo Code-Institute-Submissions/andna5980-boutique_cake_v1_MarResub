@@ -120,4 +120,22 @@ Functionality in the navbar that will allow the logged users to logout/exit the 
 - Font Awsome - Icons
 
 
+## Deployment
+### Heroku Deployment
+
+This project was develop with Gitpod, commit and pushed to GitHub and finally deployed to Heroku following the next steps.
+* In Heroku Create a new App with the name of the original application name, select the closest region to you location.
+* Within Heroku go to resources and add Postgres
+* Within Gitpod create a Procfile that includes the following line web: gunicorn boutique_cake.wsgi:application, this basically informs Heroku the type of app it will open.
+* Within the Gitpod terminal, log in to Heroku by typing Heroku login -i, and provide email and password within the terminal.
+* Disable Collect static, so Heroku will not collect static files when deploying.
+* In settings.py add Heroku to ALLOWED_HOSTS.
+* Commit and push changes done Github.
+* Commit and push to Heroku 
+* In Heroku dashboard/deploy link the deployment to the same Github repository, and enable automatic deploy.
+
+
+
+
+
        
