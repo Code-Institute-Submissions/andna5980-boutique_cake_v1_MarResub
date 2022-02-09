@@ -77,6 +77,27 @@ The website will contain 3 pages for users that are registered and are logged.
 This project uses the following Databases.
 * SQlite
     * Cloud Base Database to hold categories and products, orders and users.
+
+
+## Features
+
+### Navbar:
+Navigation bar will appear in every page this includes include a search bar, My Account(includes Regiter and Login) and checkout bag, which will inform user of any item ready to purchase.
+
+### My Account
+#### Register:
+Page link that help users to create an account, they have to provide a some details and a password.
+
+#### Log in:
+Page link for already registered users, they can access by providing username/email and password. 
+
+### Log in Users 
+### Profile:
+Page link that provide user details, under this page users can modify or delete their personal details.
+
+### Logout:
+Functionality in the navbar that will allow the logged users to logout/exit the web 
+
  
 
        
