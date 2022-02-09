@@ -98,6 +98,11 @@ Page link that provide user details, under this page users can modify or delete 
 ### Logout:
 Functionality in the navbar that will allow the logged users to logout/exit the web 
 
- 
+## Color Scheme and Typography
+
+- The color scheme use basically black and white, as the products already provide a huge variety of colors, we wanted to keep it simple, minimalistic but elegant. 
+  The simplicity of the site colors, allow the products/ cakes to be the mos important element on the site. 
+
+- Typography throughout the whole page is Lato which is a is a simple font, easy to read in various devices. 
 
        
