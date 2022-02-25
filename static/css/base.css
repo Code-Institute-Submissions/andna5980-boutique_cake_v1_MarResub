@@ -106,6 +106,19 @@ input[name='q']::placeholder {
     color: #aab7c4;
 }
 
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #800;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+
 /* ------------------------------- bootstrap toasts */
 
 .message-container {
@@ -293,6 +306,7 @@ input[name='q']::placeholder {
 
     .display-4.logo-font.text-black {
         font-size: 2rem;
+        outline-style: solid;
     }
 
     .nav-link {
