@@ -227,7 +227,7 @@ input[name='q']::placeholder {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-color: #000;
+    background-color: #800;
     border: 1px solid #000;
     padding: .375rem .75rem;
     font-size: 1rem;
