@@ -28,9 +28,8 @@ body {
 }
 
 .shop-now-button {
-    background: white;
-    color: black;
-    min-width: 260px;
+    background: #800;
+    color: white;
 }
 
 .btn-black {
@@ -39,8 +38,8 @@ body {
 }
 
 .btn-outline-black {
-    background: white;
-    color: black !important; /* use important to override link colors for <a> elements */
+    background: #800;
+    color: white !important; /* use important to override link colors for <a> elements */
     border: 1px solid black;
 }
 
@@ -69,8 +68,8 @@ body {
     border: 1px solid black !important;
 }
 
-.bg-black {
-    background: black !important;
+.bg-red{
+    background-color: #800;
 }
 
 .overlay {
