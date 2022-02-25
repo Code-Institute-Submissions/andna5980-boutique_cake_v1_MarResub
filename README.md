@@ -1,108 +1,172 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+[View the live project here.](https://andna5980-boutiquecake-v1.herokuapp.com/)
 
-Welcome andna5980,
+This is the 4th Milestone.
+Ecommerce website offering crafted Cakes, cheesecakes and cupcakes.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## User Experience (UX)
 
-## Gitpod Reminders
+### USER STORIES
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+1. As a first-time visitor, I want to quickly understand the main purpose of the website and how I can benefit 
+    from the service provided.
 
-`python3 -m http.server`
+2. As a first-time visitor I want to navigate the page in a ease and clear way.
+    
+3. As a firt-time visitor I want to get access to content without the need of register os join the service. 
 
-A blue button should appear to click: _Make Public_,
+4. As a first-time visitor, I want to be able to see clear explanation of the products and clear prices.
 
-Another blue button should appear to click: _Open Browser_.
+5. As a returning visitor, I would like to be able to filter products so i can see only what i am interested in.
+    
+6. As a retuning visitor I would like to see new products. 
+    
+7. As a returning visitor, I would like to be able to create an account where I can see previous purchases. 
+    
+8. As a frequent user I want the system to save my details like my address for future purchases
+      
+      
+## Structure
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The website will present all the produts for non registered users.
 
-A blue button should appear to click: _Make Public_,
+- Home Page will present a simple picture of a Xmas theme cupcake.
 
-Another blue button should appear to click: _Open Browser_.
+- Home Page will have a My Account link where users can create an Account or log in option for already registered users.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- A Register Page will ask the user to fill in some details in order to create the account.
 
-To log into the Heroku toolbelt CLI:
+- A login / Sign In page will ask registered users to fillin the form with their pre registered details in order to login.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- Non registered users will be able to navigate the website, having access to all the products and purchasing without be registered.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- Non registered users can select a product, read product information aswel as price, modify the quatity amount and add to bag.
 
-------
+- Non registerd users can go to the bag Icon in order to complete the order, this page will inform about the product choose and also gives the user the option of updating the amount of products, this page also informs the user of the total amount to pay.
 
-## Release History
+- Non registered user will be able to complete the order using the Checkout Secure button that will take users to the Checkout Area where users will fill in all the information related to the user; this includes full name, delivery address, and credit cards details. This page will allow users to complete the purchase or adjust the bag, adding or deleting any product.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+- Non registered users. will complete purchase and an automated email will be send to the user confirming the purchase, none of the previous details provided by the Non register user will be saved.      
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The website will contain 3 pages for users that are registered and are logged.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+- Home Page will allow also registered users to log in.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+- Registered user can login by clicking in My account area/Log in. 
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+- Registered users have to provide email address and password in order to access to the site. Once the authentication is done a message of congfirmation appears in the screen.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+- Registered Users then have access to My Profile page where purchase history appears but also user information that can be updated.  
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+- Registered Users then have access to the products and can purchase without re-entering their delivery details. Card details will be always required for security reasons.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+- Register Users also have the option of login out by clicking in My Account/Logout.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Scope
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+* Boutique Cake is a website that allows customer to buy hand crafted cakes, cupcakes and cheesecakes. Anyone can have acces to it and buy any product without been a register user. We will be using Django framework, the final site will be host in Heroku and will be using the database Heroku Postgress at the same time of AWS Cloud service.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+* Users: In order to become a registration, users will be asked to registered their details via the My Account\Register link that appears in the main navbar left side. Once users are registered they can update their details, shipping address and also users can see a purchase history aswel as the current bag with previous products selected ready for checkout.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+* Administration: There is administration area where staff/admin can have control over the site. Via administration control, staff/admin can control website products, they can be udated, edit, or deleted. This area also controls all the registered users and their details.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+### Database:
 
-------
+This project uses the following Databases.
+* SQlite
+    * Cloud Base Database to hold categories and products, orders and users.
 
-## FAQ about the uptime script
 
-**Why have you added this script?**
+## Features
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+### Navbar:
+Navigation bar will appear in every page this includes include a search bar, My Account(includes Regiter and Login) and checkout bag, which will inform user of any item ready to purchase.
 
-**How will this affect me?**
+### My Account:
+#### Register
+Page link that help users to create an account, they have to provide a some details and a password.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+#### Log in
+Page link for already registered users, they can access by providing username/email and password. 
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+### Log in Users: 
+### Profile
+Page link that provide user details, under this page users can modify or delete their personal details.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+### Logout
+Functionality in the navbar that will allow the logged users to logout/exit the web 
 
-**So….?**
+## Color Scheme and Typography
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+- The color scheme use basically black and white, as the products already provide a huge variety of colors, we wanted to keep it simple, minimalistic but elegant. 
+  The simplicity of the site colors, allow the products/ cakes to be the mos important element on the site. 
 
-**Can I opt out?**
+- Typography throughout the whole page is Lato which is a is a simple font, easy to read in various devices. 
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+## Imagery
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+This images belong to the proprietary Rose Dorilus.
+All the imagery included in this project belongs to Pastry Chef Rose Dorilus, she is the owner of the images aswel as the maker of the products.
 
-**Anything more?**
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+## Technologies
+### Languages and Frameworks
 
----
+- HTML5 - Main Markup language used for the site content
+- CSS3 - Provide style the webpage
+- JavaScript - Language use to create web functionalities 
+- Python - Backend language
+- Django - Python framework
+- Heroku - Cloud platform allowing to deploy CRUD applications
+- Github - Source code management
+- Gitpod - Code Editor
+- Font Awsome - Icons
 
-Happy coding!
+
+## Deployment
+### Heroku Deployment
+
+This project was develop with Gitpod, commit and pushed to GitHub and finally deployed to Heroku following the next steps.
+* In Heroku Create a new App with the name of the original application name, select the closest region to you location.
+* Within Heroku go to resources and add Postgres
+* Within Gitpod create a Procfile that includes the following line web: gunicorn boutique_cake.wsgi:application, this basically informs Heroku the type of app it will open.
+* Within the Gitpod terminal, log in to Heroku by typing Heroku login -i, and provide email and password within the terminal.
+* Disable Collect static, so Heroku will not collect static files when deploying.
+* In settings.py add Heroku to ALLOWED_HOSTS.
+* Commit and push changes done Github.
+* Commit and push to Heroku 
+* In Heroku dashboard/deploy link the deployment to the same Github repository, and enable automatic deploy.
+
+### Amazon AWS
+* Go to Amazon AWS, creta and account, go to S£ and create a new Bucket, select the closest region.
+* Make sure you have a public access to create a bucket.
+* In properties unable the static website hosting using default values using index,html and errors.html
+* Create security policy, allow public access and select all List Objects.
+* Create Group for the bucket through IAM. Create policy by importing AWS S3 Full Access policy and add ARN from bucket to the policy resources. Attach policy to group.
+*  Create user, allow access and add user to the group. Download CSV file when prompted to save access key ID an secret access key to save to environment and config variables.
+* Include AWS_STORAGE_BUCKET_NAME, AWS_S3_REGION_NAME = 'eu-west-2' to settings.py.
+* Commit and push changes to Github.
+
+
+## Credits
+
+### Code and Content 
+- [Materialize framework](https://materializecss.com/)  Frontend development
+- [Stackoverflow](https://stackoverflow.com/) General queries on code. 
+- [Slack](https://slack.com/intl/en-gb/) General queries overall
+- [W3schools](https://www.w3schools.com/) For general database on software development.
+
+### Media
+- [Rose Dorilus](https://www.instagram.com/lushcakesbyrose/?hl=es) Products and pictures rights belongs to her 
+
+### Acknowledgements
+
+- Code Institute Community, Student care and [Slack](https://slack.com/intl/en-gb/) group. Ger and Rebecca both very helpfull. 
+
+- The private WhatsApp group created by Code institute Students you all guys are part of a code family, your help and support has been always there.
+
+- Viviana Vivas my Wife for her support and companion during my long study nights.
+
+       
