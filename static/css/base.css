@@ -118,6 +118,48 @@ input[name='q']::placeholder {
     border: 0;
 }
 
+.item {
+    position: relative;
+    padding-top: 20px;
+    display: inline-block;
+}
+
+.card {
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+.some-products {
+    background-color: white;
+    padding: 30px;
+}
+
+.border-0 {
+    border: 0!important;
+    border-top-color: initial !important;
+    border-top-style: initial !important;
+    border-top-width: 0px !important;
+    border-right-color: initial !important;
+    border-right-style: initial !important;
+    border-right-width: 0px !important;
+    border-bottom-color: initial !important;
+    border-bottom-style: initial !important;
+    border-bottom-width: 0px !important;
+    border-left-color: initial !important;
+    border-left-style: initial !important;
+    border-left-width: 0px !important;
+    border-image-source: initial !important;
+    border-image-slice: initial !important;
+    border-image-width: initial !important;
+    border-image-outset: initial !important;
+    border-image-repeat: initial !important;
+}
+
 /* ------------------------------- bootstrap toasts */
 
 .message-container {
