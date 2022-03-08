@@ -160,7 +160,19 @@ input[name='q']::placeholder {
     border-image-repeat: initial !important;
 }
 
-/* ------------------------------- bootstrap toasts */
+.cta-button {
+    background: #ffc702;
+    color: black;
+    min-width: 120px;
+    -webkit-transition: .5s linear;
+    -o-transition: .5s linear;
+    transition: .5s linear;
+}
+
+.button-position {
+    margin-top: -78px;
+}
+ /* ------------------------------- bootstrap toasts */
 
 .message-container {
     position: fixed;
