@@ -136,7 +136,7 @@ input[name='q']::placeholder {
 
 .some-products {
     background-color: white;
-    padding: 30px;
+    padding: 20px;
 }
 
 .border-0 {
@@ -161,8 +161,8 @@ input[name='q']::placeholder {
 }
 
 .cta-button {
-    background: #ffc702;
-    color: black;
+    background:  #800;
+    color: white;
     min-width: 120px;
     -webkit-transition: .5s linear;
     -o-transition: .5s linear;
@@ -395,4 +395,44 @@ input[name='q']::placeholder {
     .increment-qty, .decrement-qty {
         padding: .25rem .5rem !important;
     }
+}
+
+/*-----------------------Footer----------*/
+
+footer {
+    height: 60px;
+    width: 100%;
+    background-color:  #800;
+    overflow: hidden;
+    margin-top: 10px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks a {
+    color: white;
+    display: inline-block;
+    margin: 1px;
+    padding: 2%;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-networks a i:hover {
+    color: black;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: white;   
+}
+
+.social-networks span {
+    color: white;
 }
