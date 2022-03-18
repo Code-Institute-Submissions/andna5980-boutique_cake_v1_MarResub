@@ -265,6 +265,10 @@ input[name='q']::placeholder {
   }
 }
 
+.h-100 {
+    height: 85%!important; 
+}
+
 /* Allauth form formatting */
 
 .allauth-form-inner-content p {
