@@ -82,6 +82,13 @@
                                             {% else %}
                                                 <small class="text-muted">No Rating</small>
                                             {% endif %}
+                                            {% if request.user.is_authenticated%}
+                                            <p>
+                                                <a href="{% url 'add_to_wishlist' product.id%}">
+                                                    <i class="far fa-heart fa-lg text-black"></i>
+                                                </a>
+                                            </p>
+                                            {% endif %}
                                             {% if request.user.is_superuser %}
                                                 <small class="ml-3">
                                                     <a href="{% url 'edit_product' product.id %}">Edit</a> | 

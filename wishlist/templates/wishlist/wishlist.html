@@ -1,12 +1,16 @@
-{% extends 'base.html' %}
+{% extends "base.html" %}
 {% load static %}
 
+{% block extra_css %}
+    <link rel="stylesheet" href="{% static 'profiles/css/profile.css' %}">
+{% endblock %}
+
 {% block page_header %}
-<div class="container header-container">
-	<div class="row">
-		<div class="col"></div>
-	</div>
-</div>
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
 {% endblock %}
 
 {% block content %}
@@ -22,7 +26,7 @@
 	<!-- User WishList Items -->
 	{% if wishlist.products.all %}
 	{% for product in wishlist.products.all %}
-	<div class="row justify-content-center">
+	<div class="row-wishlist justify-content-center">
 		<div class="col-12 col-md-6 col-lg-3">
 			<div class="image-container mt-5">
 				{% if product.image %}
