@@ -183,6 +183,11 @@ input[name='q']::placeholder {
     background-color: white;
 }
 
+.navbar-light .navbar-toggler {
+    color: rgba(0,0,0,.5);
+    border-color: #800;
+}
+
  /* ------------------------------- bootstrap toasts */
 
 .message-container {
