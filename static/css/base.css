@@ -178,8 +178,8 @@ input[name='q']::placeholder {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
+    margin-right: 20px;
+    margin-left: 20px;
     background-color: white;
 }
 
