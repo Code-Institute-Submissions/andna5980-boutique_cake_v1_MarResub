@@ -166,10 +166,10 @@ def add_review(request, product_id):
                 review.product = product
                 review.user = request.user
                 review.save()
-                message.success(request, 'Succesfull Review, Thanks for your contribution!')
+                messages.success(request, 'Succesfull Review, Thanks for your contribution!')
                 return redirect(reverse('product_detail', args=[product.id]))
             else:
-                message.error( 
+                messages.error( 
                     request, 'Error! It was not possible to save your review, try again.')
     context = {
         'form': form
