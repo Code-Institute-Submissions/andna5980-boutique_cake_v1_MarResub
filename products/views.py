@@ -3,7 +3,6 @@ from django.contrib import messages
 from django.contrib.auth.decorators import login_required
 from django.db.models import Q
 from django.db.models.functions import Lower
-
 from .models import Product, Category, Review
 from .forms import ProductForm, ReviewForm
 
@@ -75,11 +74,7 @@ def product_detail(request, product_id):
         else:
             form = ReviewForm()
 
-    context = {
-        'product': product,
-    }
-
-    return render(request, 'products/product_detail.html', context,
+    return render(request, 'products/product_detail.html',
                 {'product': product,
                  'form': form,
                  'reviews': reviews,
@@ -158,7 +153,7 @@ def delete_product(request, product_id):
 # Review
 
 @login_required
-def add_review(reequest, produc_id):
+def add_review(request, product_id):
     """
     Reviews functionality, so users can give opinions about the products
     """
@@ -191,7 +186,7 @@ def update_review(request, review_id):
     review = get_object_or_404(Review, pk=review_id)
     product = review.product
     if request.method == 'POST':
-        form = ReviewForm(reequest.POST, instance=review)
+        form = ReviewForm(request.POST, instance=review)
         if form.is_valid():
             form.save()
             messages.info(request, 'Review Updated')
