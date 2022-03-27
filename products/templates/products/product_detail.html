@@ -106,7 +106,7 @@
                     {% csrf_token %}
                     {{ form|crispy }}
                     <div class="text-right">
-                        <button class="btn btn-black rounded-0 font-weight-bold" type="submit">Update Review</button>
+                        <button class="btn btn-outline-black rounded-1" type="submit">Update Review</button>
                     </div>
                 </form>
             {% else %}
@@ -115,7 +115,7 @@
                     {% csrf_token %}
                     {{ form|crispy }}
                     <div class="text-right">
-                        <button class="btn btn-outline-black rounded-0 mt-5" type="submit">Submit Review</button>
+                        <button class="btn btn-outline-black rounded-1 mt-5" type="submit">Submit Review</button>
                     </div>
                 </form>
             {% endif %}
@@ -132,7 +132,7 @@
                 <!-- Update Review Button-->
                 {% if review.user == request.user or request.user.is_superuser %}
                     <div class="card-head text-right">
-                        <a class="btn btn-outline-black rounded-0 mt-5" href="{% url 'update_review' review.id %}#reviews">
+                        <a class="btn btn-outline-black rounded-1 mt-5" href="{% url 'update_review' review.id %}#reviews">
                             Update Review
                         </a>
                     </div>
