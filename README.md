@@ -140,6 +140,10 @@ All the imagery included in this project belongs to Pastry Chef Rose Dorilus, sh
    **Lighthouse**
    -[Home]()
    -[Home](assets/lighthouse-home.png)
+   -[Product](assets/lighthouse-products.png)
+   -[Profile](assets/lighthouse-profile.png)
+   -[Bag](assets/lighthouse-bag.png)
+   -[Checkout](assets/lighthouse-checkout.png)
    
    
     
