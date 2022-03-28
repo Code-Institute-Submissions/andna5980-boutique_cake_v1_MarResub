@@ -129,6 +129,15 @@ All the imagery included in this project belongs to Pastry Chef Rose Dorilus, sh
    - [Bag](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/bag%20validation.png)
    - [Checkout](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/checkout%20validation.png)
    - [Add Product](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/add%20product%20validation.png)
+   **CSS Validator**
+   - [Home](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Css%20validator.png) 
+   - [Product](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20products%20validation.png)
+   - [Profile](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20profile%20validation.png) 
+   - [Bag](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20bag%20validation.png)
+   - [Checkout](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20checkout%20validation.png) 
+    
+   
+    
 
 ## Technologies
 ### Languages and Frameworks
