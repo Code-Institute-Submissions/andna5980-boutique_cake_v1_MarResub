@@ -137,6 +137,10 @@ All the imagery included in this project belongs to Pastry Chef Rose Dorilus, sh
    - [Bag](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20bag%20validation.png)
    - [Checkout](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20checkout%20validation.png) 
     
+   **Lighthouse**
+   -[Home]()
+   -[Home](assets/lighthouse-home.png)
+   
    
     
 
