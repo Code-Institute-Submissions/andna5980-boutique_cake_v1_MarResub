@@ -120,6 +120,10 @@ Functionality in the navbar that will allow the logged users to logout/exit the 
 This images belong to the proprietary Rose Dorilus.
 All the imagery included in this project belongs to Pastry Chef Rose Dorilus, she is the owner of the images aswel as the maker of the products.
 
+## Testing
+### Validation
+   **HTML Validator**
+   - [Home](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/page%20validation.png) 
 
 ## Technologies
 ### Languages and Frameworks
