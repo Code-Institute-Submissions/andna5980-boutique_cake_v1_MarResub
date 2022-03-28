@@ -74,6 +74,9 @@ This project uses the following Databases.
 Database Schema
 <h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Data%20Schema.png"></h2>
 
+Customer Journey
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/customer%20journey.png"></h2>
+
 ## Scope
 
 * Boutique Cake is a website that allows customer to buy hand crafted cakes, cupcakes and cheesecakes. Anyone can have acces to it and buy any product without been a register user. We will be using Django framework, the final site will be host in Heroku and will be using the database Heroku Postgress at the same time of AWS Cloud service.
