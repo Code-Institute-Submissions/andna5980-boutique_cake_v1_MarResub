@@ -3,6 +3,8 @@
 This is the 4th Milestone.
 Ecommerce website offering crafted Cakes, cheesecakes and cupcakes.
 
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Screenshot%202022-03-24%20at%2015.23.33.png"></h2>
+
 
 ## User Experience (UX)
 
@@ -63,6 +65,21 @@ The website will contain 3 pages for users that are registered and are logged.
 
 - Register Users also have the option of login out by clicking in My Account/Logout.
 
+### Database:
+
+This project uses the following Databases.
+* SQlite
+    * Cloud Base Database to hold categories and products, orders and users.
+
+Database Schema
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Data%20Schema.png"></h2>
+
+Customer Journey
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/customer%20journey.png"></h2>
+
+Admin Page Journey
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Super%20user%20journey.png"></h2>
+
 ## Scope
 
 * Boutique Cake is a website that allows customer to buy hand crafted cakes, cupcakes and cheesecakes. Anyone can have acces to it and buy any product without been a register user. We will be using Django framework, the final site will be host in Heroku and will be using the database Heroku Postgress at the same time of AWS Cloud service.
@@ -70,13 +87,6 @@ The website will contain 3 pages for users that are registered and are logged.
 * Users: In order to become a registration, users will be asked to registered their details via the My Account\Register link that appears in the main navbar left side. Once users are registered they can update their details, shipping address and also users can see a purchase history aswel as the current bag with previous products selected ready for checkout.
 
 * Administration: There is administration area where staff/admin can have control over the site. Via administration control, staff/admin can control website products, they can be udated, edit, or deleted. This area also controls all the registered users and their details.
-
-
-### Database:
-
-This project uses the following Databases.
-* SQlite
-    * Cloud Base Database to hold categories and products, orders and users.
 
 
 ## Features
@@ -110,6 +120,33 @@ Functionality in the navbar that will allow the logged users to logout/exit the 
 This images belong to the proprietary Rose Dorilus.
 All the imagery included in this project belongs to Pastry Chef Rose Dorilus, she is the owner of the images aswel as the maker of the products.
 
+## Testing
+### Validation
+   **HTML Validator**
+   - [Home](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/page%20validation.png) 
+   - [Poducts](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/products%20validation.png)
+   - [Profile](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/profile%20validation.png)
+   - [Bag](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/bag%20validation.png)
+   - [Checkout](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/checkout%20validation.png)
+   - [Add Product](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/add%20product%20validation.png)
+   
+   **CSS Validator**
+   - [Home](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Css%20validator.png) 
+   - [Product](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20products%20validation.png)
+   - [Profile](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20profile%20validation.png) 
+   - [Bag](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20bag%20validation.png)
+   - [Checkout](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20checkout%20validation.png) 
+    
+   **Lighthouse**
+   - [Home]()
+   - [Home](assets/lighthouse-home.png)
+   - [Product](assets/lighthouse-products.png)
+   - [Profile](assets/lighthouse-profile.png)
+   - [Bag](assets/lighthouse-bag.png)
+   - [Checkout](assets/lighthouse-checkout.png)
+   
+   
+    
 
 ## Technologies
 ### Languages and Frameworks
