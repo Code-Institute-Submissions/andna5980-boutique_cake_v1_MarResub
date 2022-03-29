@@ -145,6 +145,24 @@ All the imagery included in this project belongs to Pastry Chef Rose Dorilus, sh
    - [Bag](assets/lighthouse-bag.png)
    - [Checkout](assets/lighthouse-checkout.png)
    
+   **Manual Testing**
+   
+   Browser used:
+    * Safari
+    * Google Chrome
+    * Firefox
+   
+   Devices Used:
+    * 16" Macbook Pro
+    * Iphone 11 Pro
+    * Iphone 11
+   
+   
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Home.png"></h2>
+    
+    
+
+   
    
     
 
