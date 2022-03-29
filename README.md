@@ -5,15 +5,6 @@ Ecommerce website offering crafted Cakes, cheesecakes and cupcakes.
 
 <h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Screenshot%202022-03-24%20at%2015.23.33.png"></h2>
 
-<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Register.png"></h2>
-<h2 align="center"><img src=""></h2>
-<h2 align="center"><img src=""></h2>
-<h2 align="center"><img src=""></h2>
-<h2 align="center"><img src=""></h2>
-
-
-
-
 ## User Experience (UX)
 
 ### USER STORIES
@@ -165,8 +156,15 @@ All the imagery included in this project belongs to Pastry Chef Rose Dorilus, sh
     * Iphone 11 Pro
     * Iphone 11
    
-   
+   *HOME*
 <h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Home.png"></h2>
+
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Register.png"></h2>
+
+<h2 align="center"><img src=""></h2>
+<h2 align="center"><img src=""></h2>
+<h2 align="center"><img src=""></h2>
+<h2 align="center"><img src=""></h2>
     
     
 
