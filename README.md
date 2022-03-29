@@ -156,9 +156,9 @@ All the imagery included in this project belongs to Pastry Chef Rose Dorilus, sh
     * Iphone 11 Pro
     * Iphone 11
    
-   *HOME*
+*HOME*
 <h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Home.png"></h2>
-
+*REGISTER*
 <h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Register.png"></h2>
 
 <h2 align="center"><img src=""></h2>
