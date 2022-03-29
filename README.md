@@ -5,7 +5,6 @@ Ecommerce website offering crafted Cakes, cheesecakes and cupcakes.
 
 <h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Screenshot%202022-03-24%20at%2015.23.33.png"></h2>
 
-
 ## User Experience (UX)
 
 ### USER STORIES
@@ -26,6 +25,8 @@ Ecommerce website offering crafted Cakes, cheesecakes and cupcakes.
 7. As a returning visitor, I would like to be able to create an account where I can see previous purchases. 
     
 8. As a frequent user I want the system to save my details like my address for future purchases
+
+9. As a frequent user I would like to leave reviews about the purchase products  
       
       
 ## Structure
@@ -138,12 +139,44 @@ All the imagery included in this project belongs to Pastry Chef Rose Dorilus, sh
    - [Checkout](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20checkout%20validation.png) 
     
    **Lighthouse**
-   - [Home]()
    - [Home](assets/lighthouse-home.png)
    - [Product](assets/lighthouse-products.png)
    - [Profile](assets/lighthouse-profile.png)
    - [Bag](assets/lighthouse-bag.png)
    - [Checkout](assets/lighthouse-checkout.png)
+   
+   **Manual Testing**
+   
+   Browser used:
+    * Safari
+    * Google Chrome
+    * Firefox
+   
+   Devices Used:
+    * 16" Macbook Pro
+    * Iphone 11 Pro
+    * Iphone 11
+   
+HOME
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Home.png"></h2>
+
+REGISTER FUNCTIONALITY
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Register.png"></h2>
+
+LOGIN FUNCTIONALITY
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Login.png"></h2>
+
+PROFILE FUNCTIONALITY
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Profile.png"></h2>
+
+BAG PAGE
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Bag.png"></h2>
+
+CHECKOUT PAGE
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20checkout.png"></h2>
+    
+    
+
    
    
     
