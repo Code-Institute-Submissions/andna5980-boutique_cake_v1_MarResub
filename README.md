@@ -167,7 +167,9 @@ LOGIN FUNCTIONALITY
 
 PROFILE FUNCTIONALITY
 <h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Profile.png"></h2>
-<h2 align="center"><img src=""></h2>
+
+BAG PAGE
+<h2 align="center"><img src="https://github.com/andna5980/boutique_cake_v1/blob/main/assets/Manual%20test%20Bag.png"></h2>
 <h2 align="center"><img src=""></h2>
     
     
