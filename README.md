@@ -25,6 +25,8 @@ Ecommerce website offering crafted Cakes, cheesecakes and cupcakes.
 7. As a returning visitor, I would like to be able to create an account where I can see previous purchases. 
     
 8. As a frequent user I want the system to save my details like my address for future purchases
+
+9. As a frequent user I would like to leave reviews about the purchase products  
       
       
 ## Structure
@@ -137,7 +139,6 @@ All the imagery included in this project belongs to Pastry Chef Rose Dorilus, sh
    - [Checkout](https://github.com/andna5980/boutique_cake_v1/blob/main/assets/css%20checkout%20validation.png) 
     
    **Lighthouse**
-   - [Home]()
    - [Home](assets/lighthouse-home.png)
    - [Product](assets/lighthouse-products.png)
    - [Profile](assets/lighthouse-profile.png)
